@@ -1,0 +1,90 @@
+# =========================
+# Secrets et configuration
+# =========================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Environnements virtuels
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE et éditeurs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# ChromaDB et index vectoriels
+# =========================
+chroma_db/
+chroma.sqlite3
+*.parquet
+
+# =========================
+# Modèles et données générées
+# =========================
+models/
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Données et documents médicaux
+# =========================
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# =========================
+# Logs et fichiers temporaires
+# =========================
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Système
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini

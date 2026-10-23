@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "Q01",
+    "question": "Quelles sont les étapes du parcours de soins du diabète de type 2 ?",
+    "relevant_pages": [7, 14]
+  },
+  {
+    "id": "Q02",
+    "question": "Comment dépister et diagnostiquer un diabète de type 2 ?",
+    "relevant_pages": [12, 14]
+  },
+  {
+    "id": "Q03",
+    "question": "Quels sont les principes du traitement du diabète de type 2 ?",
+    "relevant_pages": [24, 30, 31]
+  },
+  {
+    "id": "Q04",
+    "question": "Quels éléments figurent dans la check-list du suivi systématique du diabète de type 2, et à quelle fréquence sont-ils contrôlés ?",
+    "relevant_pages": [37, 38, 39]
+  },
+  {
+    "id": "Q05",
+    "question": "Quelles complications faut-il rechercher chez un patient diabétique ?",
+    "relevant_pages": [42, 53, 55]
+  }
+]

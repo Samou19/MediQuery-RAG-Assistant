@@ -1,0 +1,30 @@
+
+# Configuration
+python-dotenv
+
+# Claude API
+anthropic
+langchain-anthropic
+
+# LangChain core and document splitting
+langchain-core
+langchain-text-splitters
+
+# Vector database and embeddings
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+
+# PDF loading
+pypdf
+
+# Recherche hybride
+rank-bm25
+
+# Application UI (when implementing Streamlit)
+streamlit
+
+# Development and tests
+pytest
+pytest-cov
+ruff
