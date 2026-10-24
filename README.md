@@ -1,5 +1,7 @@
 # 🩺 MediQuery — Assistant médical RAG
 
+Testez l'assistant : [ici](https://mediquery-75188976532.europe-west1.run.app/)
+
 **MediQuery** est un assistant conversationnel médical qui exploite le *Retrieval-Augmented Generation (RAG)* pour répondre à des questions en français à partir de documents médicaux.
 
 Le projet met l'accent sur la recherche hybride, la traçabilité des sources, la réduction des hallucinations et la maîtrise des coûts d'utilisation d'un LLM.
@@ -115,8 +117,8 @@ Pour les détails sur les choix techniques, l'évaluation, les limites et la mé
 
 **Sambou Diao** — Data Scientist | GenAI | RAG & Agents IA
 
-- LinkedIn : [Ajouter le lien](https://www.linkedin.com/)
-- GitHub : [Ajouter le lien vers ton profil](https://github.com/)
+- LinkedIn : [lien](https://www.linkedin.com/in/sambou-diao-a93443185/)
+- GitHub : [lien](https://github.com/Samou19/)
 
 ---
 
