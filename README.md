@@ -201,7 +201,7 @@ Plusieurs choix contribuent à limiter les coûts d'inférence :
 
 Les coûts réels dépendent notamment du volume de requêtes, de la taille des contextes, de l'utilisation de l'API Anthropic et des ressources consommées sur Google Cloud.
 
-## 🚀 CI/CD et déploiement
+## 🚀 CI/CD et déploiement sur GCP
 
 Le projet s'appuie sur Docker et GitHub Actions pour automatiser les étapes de validation et de construction de l'image. L'image est publiée sur GitHub Container Registry, puis utilisée pour le déploiement sur Google Cloud Run.
 
@@ -217,7 +217,7 @@ La clé API Anthropic doit être injectée au moment de l'exécution via un méc
 
 Pour approfondir les choix techniques, la méthodologie et les résultats de l'évaluation, consulter la note méthodologique si elle est effectivement disponible dans le dépôt :
 
-`docs/Note_methodologique_MediQuery.docx`
+`docs/Note_methodologique_MediQuery.pdf`
 
 ## 🔭 Pistes d'amélioration
 
