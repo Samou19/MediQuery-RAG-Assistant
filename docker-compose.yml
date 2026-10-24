@@ -13,6 +13,7 @@ services:
       CLAUDE_MODEL: ${CLAUDE_MODEL:-claude-haiku-4-5-20251001}
       CLAUDE_MAX_TOKENS: ${CLAUDE_MAX_TOKENS:-1500}
       EMBEDDING_MODEL: ${EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2}
+      STREAMLIT_SERVER_FILE_WATCHER_TYPE: none
     volumes:
       - ./chroma_db:/app/chroma_db
     restart: unless-stopped
