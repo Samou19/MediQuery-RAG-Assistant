@@ -50,10 +50,11 @@ ENV/
 # =========================
 # ChromaDB et index vectoriels
 # =========================
-chroma_db/
-chroma.sqlite3
-*.parquet
-
+# ChromaDB : index nécessaire au déploiement
+chroma_db/*
+!chroma_db/chroma.sqlite3
+!chroma_db/57bfdf0d-fa80-4467-95e0-72d02597cf18/
+!chroma_db/57bfdf0d-fa80-4467-95e0-72d02597cf18/**
 # =========================
 # Modèles et données générées
 # =========================
