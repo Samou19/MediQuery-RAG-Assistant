@@ -17,6 +17,7 @@ sentence-transformers
 
 # PDF loading
 pypdf
+reportlab
 
 # Recherche hybride
 rank-bm25
