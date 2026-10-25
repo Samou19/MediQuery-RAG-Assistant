@@ -1,6 +1,6 @@
 # 🩺 MediQuery — Assistant médical RAG
 
-**Testez l'assistant :** [MediQuery en ligne](https://mediquery-75188976532.europe-west1.run.app/)
+**Pour tester l'assistant MediQuery en ligne, veuillez me contacter pour avoir le lien**.
 
 MediQuery est un assistant conversationnel médical qui exploite le **Retrieval-Augmented Generation (RAG)** pour répondre à des questions en français à partir de documents médicaux.
 
