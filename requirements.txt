@@ -15,6 +15,10 @@ langchain-chroma
 langchain-huggingface
 sentence-transformers
 
+# Embedding voyage ai
+voyageai
+langchain-voyageai
+
 # PDF loading
 pypdf
 reportlab
